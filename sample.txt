@@ -1,0 +1,8 @@
+Istanbul Izmir 8 0 150
+Istanbul Zonguldak 2 0 40
+Istanbul Ankara 8 30 170
+Zonguldak Ankara 5 0 80
+Ankara Ordu 7 0 120
+Ankara Mersin 6 10 100
+Ordu Mardin 6 20 110
+

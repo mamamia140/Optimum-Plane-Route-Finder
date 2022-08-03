@@ -1,0 +1,4 @@
+source // destination // stops // hour // minute // price
+Istanbul // Helsinki //Berlin,// 11 // 10 // 450
+Istanbul // Helsinki //Berlin,Paris,// 14 // 25 // 600
+Istanbul // Helsinki //Atina,Paris,// 15 // 10 // 620
